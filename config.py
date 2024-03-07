@@ -1,0 +1,3 @@
+class Config:
+    SUPABASE_URL= 'https://oxumtjvsbiahigjhqexb.supabase.co'
+    SUPABASE_KEY = 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6Im94dW10anZzYmlhaGlnamhxZXhiIiwicm9sZSI6InNlcnZpY2Vfcm9sZSIsImlhdCI6MTcwOTE0NzYwOSwiZXhwIjoyMDI0NzIzNjA5fQ.3ZIrtMMvok6Zi4H7QO9SKM0RBMsI9hqblximNHTg8-Y'
